@@ -2,7 +2,7 @@
 
 A colorful and interactive website designed to help children learn English alphabet writing with stroke animations, pronunciation, and printable practice sheets.
 
-**🌐 Live Demo**: [https://YOUR_USERNAME.github.io/english_learning/](https://YOUR_USERNAME.github.io/english_learning/)
+**🌐 Live Demo**: [https://caiqinzhou.github.io/english_learning/](https://caiqinzhou.github.io/english_learning/)
 
 **中文名称**：儿童英文字母学习网站
 
@@ -124,7 +124,7 @@ This project is configured for easy deployment to GitHub Pages. See [DEPLOYMENT.
 1. Create a GitHub repository named `english_learning`
 2. Push code to GitHub
 3. Enable GitHub Pages with GitHub Actions
-4. Your site will be live at `https://YOUR_USERNAME.github.io/english_learning/`
+4. Your site will be live at `https://caiqinzhou.github.io/english_learning/`
 
 ## 📸 Screenshots
 

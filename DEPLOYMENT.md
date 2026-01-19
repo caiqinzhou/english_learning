@@ -29,8 +29,8 @@ cd /Users/sadman/workspace/english_learning
 # 初始化 Git 仓库
 git init
 
-# 添加远程仓库（替换 YOUR_USERNAME 为你的 GitHub 用户名）
-git remote add origin https://github.com/YOUR_USERNAME/english_learning.git
+# 添加远程仓库
+git remote add origin https://github.com/caiqinzhou/english_learning.git
 
 # 添加所有文件
 git add .
@@ -75,7 +75,7 @@ git push
 部署完成后（大约 2-3 分钟），访问：
 
 ```
-https://YOUR_USERNAME.github.io/english_learning/
+https://caiqinzhou.github.io/english_learning/
 ```
 
 ## 🔧 本地测试生产构建
@@ -190,7 +190,7 @@ npm install --save-dev @types/canvas-confetti
 
 **分享你的网站**：
 ```
-https://YOUR_USERNAME.github.io/english_learning/
+https://caiqinzhou.github.io/english_learning/
 ```
 
 ## 📞 技术支持
